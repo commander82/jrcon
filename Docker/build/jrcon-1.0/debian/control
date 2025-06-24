@@ -1,0 +1,12 @@
+Source: jrcon
+Section: utils
+Priority: optional
+Maintainer: viktorskalin <viktorskalin@yahoo.de>
+Standards-Version: 4.6.2
+Build-Depends: debhelper (>= 12)
+
+Package: jrcon
+Architecture: all
+Depends: default-jre, ${misc:Depends}
+Description: Java RCON-Client
+ JRcon(jcon) is a easy RCon clinte for cli, base on Java17
