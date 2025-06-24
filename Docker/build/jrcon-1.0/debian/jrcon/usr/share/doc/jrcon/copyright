@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: JRcon
+Source: https://github.com/commander82/jrcon
+
+Files: *
+Copyright: 2025 Commander82 <viktorskalin@yahoo.de>
+License: Custom
+
+ JRcon Lizenz (Benutzerdefiniert)
+
+ Diese Software darf kostenlos genutzt, verändert und verteilt werden,
+ solange sie nur nicht-kommerziell verwendet und nur über GitHub verbreitet wird.
+ Für Details siehe LICENSE.txt.

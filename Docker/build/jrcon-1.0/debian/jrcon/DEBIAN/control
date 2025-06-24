@@ -1,0 +1,10 @@
+Package: jrcon
+Version: 1.0
+Architecture: all
+Maintainer: Commander82 <viktorskalin@yahoo.de>
+Installed-Size: 8
+Depends: openjdk-17-jre-headless
+Section: utils
+Priority: optional
+Description: JRcon - Java RCON-Client für Server-Fernsteuerung
+ Eine einfache Open-Source-Anwendung zum Fernsteuern von Servern via RCON.

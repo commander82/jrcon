@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 24 Jun 2025 08:55:19 +0000
+Source: jrcon
+Binary: jrcon
+Architecture: all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Commander82 <viktorskalin@yahoo.de>
+Changed-By: Commander82 <viktorskalin@yahoo.de>
+Description:
+ jrcon      - JRcon - Java RCON-Client für Server-Fernsteuerung
+Changes:
+ jrcon (1.0) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1:
+ afececc84c7e56f3f08f25769439c2114f174107 1488 jrcon_1.0_all.deb
+ f5ffcdcbe631d0e8e6638aab07235fe46c3c7197 4948 jrcon_1.0_amd64.buildinfo
+Checksums-Sha256:
+ 0c07c767d8e96010092bf4c9e3f37161aee130cc43cdc3b6539c638a9458c14e 1488 jrcon_1.0_all.deb
+ df48e2adc66f453e82ebf506dcf30b94aaaa482c9b62662e94c3b32d169a038b 4948 jrcon_1.0_amd64.buildinfo
+Files:
+ d3b81a213875d0e3c73328fe5ed1ab48 1488 utils optional jrcon_1.0_all.deb
+ 544db099756f46e307d56c071415c2dd 4948 utils optional jrcon_1.0_amd64.buildinfo
